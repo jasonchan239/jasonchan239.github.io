@@ -74,4 +74,6 @@ body::before {
 }
 .bg{
   background-color: #999;
+  margin-left: 10%;
+  margin-right: 10%;
 }
