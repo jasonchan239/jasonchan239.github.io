@@ -1,0 +1,32 @@
+<html>
+   <head>
+     <link rel="stylesheet" href="../css/styles.css">
+     <title>acidshark - Random FH3</title>
+   </head>
+   <body>
+     <script type = "text/javascript"
+        src = "../static/randomfh4.js">
+      </script>
+      <script>
+      function newResult() {
+        document.getElementById("demo").innerHTML = rollFH4();
+      }
+    </script>
+    <div class="topnav">
+      <!-- <a href="#home" class="active">Home</a> -->
+       <a href="index.html">Home</a>
+       <a href="fh4.html">Forza Horizon 4</a>
+       <a href="fh3.html" class="active">Forza Horizon 3</a>
+       <a href="about.html">About</a>
+     </div>
+     <div id="blank">
+     </div>
+     <div class="container">
+       <div id="car" class="center">
+         <!-- <button onclick ="rollFH4()" class="button">Roll</button> -->
+         <button onclick ="newResult()" class="button">Roll</button>
+       </div>
+      </div>
+      <p id="demo">result</p>
+   </body>
+</html>
