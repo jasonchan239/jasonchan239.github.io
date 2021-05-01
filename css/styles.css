@@ -152,12 +152,3 @@ html {
     transform: translateY(-2000px);
   }
 }
-.section{
-    width: 100vw;
-    height: 100vh !important;
-    z-index: 1;
-    max-width: 100%;
-}
-#blank2{
-  height: 100px;
-}
