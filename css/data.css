@@ -48,7 +48,7 @@
 /* Main styles */
 body {
   margin-top: 13.5rem;
-  color: #999;
+  color: black;
   font: 400 16px/1.5 exo, ubuntu, "segoe ui", helvetica, arial, sans-serif;
   text-align: center;
   /* img size is 50x50 */
@@ -67,8 +67,11 @@ body {
   animation-timing-function: linear;
 }
 body::before {
-  content: "Jason";
+  /* content: "Jason"; */
   font-size: 8rem;
   font-weight: 100;
   font-style: normal;
+}
+.bg{
+  background-color: #999;
 }
