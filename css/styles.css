@@ -152,7 +152,7 @@ html {
     transform: translateY(-2000px);
   }
 }
-.section {
+.section{
     width: 100vw;
     height: 100vh !important;
     z-index: 1;
