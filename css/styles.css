@@ -158,3 +158,6 @@ html {
     z-index: 1;
     max-width: 100%;
 }
+.blank{
+  padding: 100px;
+}
