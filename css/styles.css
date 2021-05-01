@@ -152,3 +152,6 @@ html {
     transform: translateY(-2000px);
   }
 }
+window.onbeforeunload = function () {
+  window.scrollTo(0, 0);
+}
