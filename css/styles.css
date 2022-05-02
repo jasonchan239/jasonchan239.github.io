@@ -172,10 +172,7 @@ window.onbeforeunload = function () {
 
 /* Color and Images for Project Containers  */
 
-.project-1 {
-  background: url('../images/project-left.jpeg');
-  background-size: cover;
-}
+
 
 .project-2 {
   background-color:white;
@@ -201,11 +198,8 @@ window.onbeforeunload = function () {
     background-color:#ffffff00;
 }
 
-.project-8 {
-  background: url('../images/project-right.jpeg');
-  background-size: cover;
-}
-. . .
+
+Test
 .project-text {
   text-align:center;
   font-size:50px;
