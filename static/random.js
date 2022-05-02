@@ -1,4 +1,4 @@
-function rollFH4(){
+function rollFH3(){
 array = ["2017 Abarth 124 Spider",
 "2016 Abarth 695 Biposto",
 "1980 Abarth Fiat 131",
