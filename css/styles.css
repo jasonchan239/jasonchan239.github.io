@@ -21,7 +21,7 @@
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #454545;
-  overflow: hidden;
+  /* overflow: hidden; */
   border-radius: 10px;
 }
 /* Style the links inside the navigation bar */
@@ -73,7 +73,7 @@
 html {
   height: 100%;
   background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 #stars {
