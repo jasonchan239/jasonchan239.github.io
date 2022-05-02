@@ -685,6 +685,6 @@ array = ["2017 Abarth 124 Spider",
 "2019 Zenvo TSR-S* (Series 24 cu)",
 "2016 Zenvo ST1*"]
 
-const randomElement = array[Math.floor(Math.random() * array.length)];
-    alert(randomElement)
+var randomElement = array[Math.floor(Math.random() * array.length)];
+  return randomElement;
 }
