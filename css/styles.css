@@ -209,3 +209,30 @@ window.onbeforeunload = function () {
   text-align:center;
   font-size:50px;
 }
+. . .
+
+/* Hover classes for individual project boxes */
+
+.project-2:hover {
+  background-color:#FEDE00;
+}
+
+.project-3:hover {
+   background-color: #FEDE00;
+}
+
+.project-4:hover {
+   background-color: #FEDE00;
+}
+
+.project-5:hover {
+   background-color: #FEDE00;
+}
+
+.project-6:hover {
+   background-color: #FEDE00;
+}
+
+.project-7:hover {
+   background-color: #FEDE00;
+}
