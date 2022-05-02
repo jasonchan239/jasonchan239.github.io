@@ -168,7 +168,6 @@ window.onbeforeunload = function () {
   margin:20px;
   height: 250px;
 }
-Test
 
 /* Color and Images for Project Containers  */
 
@@ -207,7 +206,6 @@ Test
 }
 
 
-Test
 .project-text {
   text-align:center;
   font-size:50px;
