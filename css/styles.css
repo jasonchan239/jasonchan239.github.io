@@ -205,7 +205,6 @@ window.onbeforeunload = function () {
   background-size: cover;
 }
 
-
 .project-text {
   text-align:center;
   font-size:50px;
