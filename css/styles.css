@@ -158,7 +158,7 @@ html {
 window.onbeforeunload = function () {
   window.scrollTo(0, 0);
 }
-. . .
+
 /* Sizing for Project Containers  */
 
 .column-4 {
