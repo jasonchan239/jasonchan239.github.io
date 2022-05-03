@@ -214,7 +214,7 @@ window.onbeforeunload = function () {
 /* Hover classes for individual project boxes */
 
 .project-2:hover {
-  background-color:#FEDE00;
+   background-color: #FEDE00;
 }
 
 .project-3:hover {
