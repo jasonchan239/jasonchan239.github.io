@@ -154,3 +154,7 @@ body::before {
 .project-7:hover {
    background-color: #FEDE00;
 }
+.cleanlink{
+  text-decoration: none;
+  color: inherit;
+}
